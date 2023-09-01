@@ -1,1 +1,4 @@
 # dpll
+dpll
+SAT
+Hanidoku
