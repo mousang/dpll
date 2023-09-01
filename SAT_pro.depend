@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1693402516 source:c:\users\mjh\desktop\sat_pro\cnf_parser.c
+	"head.h"
+
+1693450132 c:\users\mjh\desktop\sat_pro\head.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1693453056 source:c:\users\mjh\desktop\sat_pro\cnf_print.c
+	"head.h"
+
+1693450142 source:c:\users\mjh\desktop\sat_pro\game.c
+	"head.h"
+
+1693399764 source:c:\users\mjh\desktop\sat_pro\hanidoku_translator.c
+	"head.h"
+
+1693475926 source:c:\users\mjh\desktop\sat_pro\dpll_solver.c
+	"head.h"
+
+1693528970 source:c:\users\mjh\desktop\sat_pro\main.c
+	"head.h"
+
